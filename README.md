@@ -4,8 +4,10 @@
 <img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://blog.cho6019.store(domain?)
-- STG - https://team-sunsin.web.app(web.app은 파이어박스 주소)
+- PRD - https://blog.cho6019.store(domain?) / https://cho6019.github.io/
+- STG - https://blog-b8d4d.web.app/(web.app은 파이어박스 주소)
+- DEV - 
+- LOCAL - localhost:8080
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -73,10 +75,22 @@ STG DEPLOY OK!
 https://oss-cashmallow.web.app
 ```
 
+
+```bash
+$ git add .
+$ pnpm docs:build
+$ firebase login
+$ firebase deploy
+```
+
+
+
+```bash
 2. PRD
 - github pages -> docs
-- sh prd-build.sh -> push -> pr merge -> deploy - end
-- https://oss.cashmallow.com
-
+- pnpm docs:build
+- git add .; git commit -a; git push
+- https://team.sunsin.shop
+```
 <img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
 <img src="https://oss-cashmallow.github.io/images/hero.png" alt="cashmallow" style="width:200px;"/>
