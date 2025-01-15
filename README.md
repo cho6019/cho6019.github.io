@@ -1,11 +1,11 @@
-# tech blog@cashmallow
+# team blog@sunsin.shop
 - Cashmallow development team's technology blog about wanting to contribute to the open source ecosystem
   
 <img src="http://oss.cashmallow.com/images/tiger-cute.svg" alt="tiger cute" style="width:200px;"/>
 
 ### Connecting
-- PRD - https://oss.cashmallow.com / oss-cashmallow.github.io
-- STG - https://oss-cashmallow.web.app
+- PRD - https://blog.cho6019.store(domain?)
+- STG - https://team-sunsin.web.app(web.app은 파이어박스 주소)
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -22,6 +22,12 @@ brew install pnpm
 - connecting to localhost 8080
 - node.js install if you have get error 'ELIFECYCLE Command failed'
 ```
+
+$ nvm install --lts
+$ nvm use v22.13.0
+$ node -v
+v22.13.0
+$ pnpm install
 pnpm install
 pnpm docs:dev
 ```
