@@ -10,12 +10,16 @@ title: tech blog
 tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
 
 actions:
-  - text: GITHUB
-    link: https://github.com/cho6019
+  - text: tech SHARE
+    link: /tech/share
     type: primary
   
-  - text: RESUME
-    link: /resume
+  - text: team TIGER
+    link: /team/tiger
+    type: secondary
+
+  - text: open SOURCE
+    link: /tech/share/opensource
     type: secondary
 
 features:

@@ -88,7 +88,7 @@ export default defineUserConfig({
     sidebar: {
       "/": [
         {
-          text: "Resume",
+          text: "share",
           collapsible: true,
           children: [
             "/tech/share/",
