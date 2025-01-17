@@ -16,7 +16,7 @@ export default defineUserConfig({
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'chos blog' }],
     ['meta', { property: 'og:description', content: "I'm cho min kyu. just put your thumbs up. T H U M B S" }],
-    ['meta', { property: 'og:image', content: 'https://cho6019.github.io/images/repository-open-graph-template.png' }],
+    ['meta', { property: 'og:image', content: '/images/repository-open-graph-template.png' }],
     ['meta', { property: 'og:url', content: 'https://cho6019.cho6019.store' }],
   ],
   
