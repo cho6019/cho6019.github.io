@@ -1,10 +1,10 @@
 ---
 home: true
 
-heroImage: /images/hero2.png
-heroImageDark: /images/hero2.png
+heroImage: ../.vuepress/public/images/hero2.png
+heroImageDark: ../vuepress/public//images/hero2.png
 
-heroText: 'team blog@sunsin'
+heroText: 'blog@cho6019'
 title: tech blog
 
 tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
