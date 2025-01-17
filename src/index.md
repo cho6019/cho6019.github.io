@@ -1,8 +1,8 @@
 ---
 home: true
 
-heroImage: ../.vuepress/public/images/hero2.png
-heroImageDark: ../vuepress/public//images/hero2.png
+heroImage: /images/hero2.png
+heroImageDark: /images/hero2.png
 
 heroText: 'blog@cho6019'
 title: tech blog
