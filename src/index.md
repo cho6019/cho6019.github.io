@@ -1,13 +1,13 @@
 ---
 home: true
 
-heroImage: /images/hero2.png
-heroImageDark: /images/hero2.png
+heroImage: /images/ROBO_Head.webp
+heroImageDark: /images/ROBO_Head.webp
 
-heroText: 'blog@cho6019'
+heroText: 'Cho @ Blog'
 title: tech blog
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: "Cho's Data Engineering Growth Journal: What I Have Learned and Accomplished"
 
 actions:
   - text: GITHUB
@@ -19,12 +19,12 @@ actions:
     type: secondary
 
 features:
-- title: team TIGER
-  details: Cashmallow Development Team. A person-centered devops-friendly software developer organization that makes and operates more than customers want one step faster than the market.
-- title: cashmallow
-  details: troublesome currency exchange that had to do before departue. start a reliable trip by using Cashmallow exchange service.
-- title: mallowLINK
-  details: Traveler's Exchange System Using Overseas Remittance, Network Solution for Financial Institutions
+- title: Cho Min Kyu
+  details: "I was born in 2000 and am a male residing in South Korea. I am someone who is learning step by step to become a data engineer, striving to gain practical and diverse experiences"
+- title: MJ University
+  details: I majored in Data Technology at Myongji University, a four-year university
+- title: Team YB
+  details: I am currently part of a team in a learning program. Let's work together to create something amazing, starting from the basics
 
-footer: THE TIGER@cashmallow who has returned the favor. 2016.
+footer: "Cho, The Beginning of Records. 2025"
 ---
