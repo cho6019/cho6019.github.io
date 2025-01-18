@@ -9,8 +9,8 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team SUNSIN',
-  description: "cho's blog",
+  title: 'Cho Min Kyu',
+  description: "Cho6019's Blog",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
@@ -63,8 +63,8 @@ export default defineUserConfig({
       },
     },
 
-    logo: "/images/hamster.png",
-    logoDark: "/images/hamster.png",
+    logo: "/images/Hugme.webp",
+    logoDark: "/images/Hugme.webp",
 
     repo: "https://github.com/oss-cashmallow/oss-cashmallow.github.io/discussions",
     repoLabel: "discussions",
@@ -81,31 +81,28 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "cho6019.github", link: "https://github.com/cho6019" },
+      { text: "resume", link: "/resume" },
     ],
 
     sidebar: {
       "/": [
         {
-          text: "share",
+          text: "RESUME",
           collapsible: true,
           children: [
-            "/tech/share/",
+            "/resume",
           ],
         },
         {
-          text: "team",
+          text: "EDUCATION",
           collapsible: true,
           children: [
-            "/team/tiger/",
-            "/team/recruit/",
-            "/team/how2pr/",
-            "/team/tiger2agile/",
+            "/edu",
           ],
         },
         {
-          text: "opensource",
+          text: "-EXAMPLE-",
           collapsible: true,
           children: [
             "/tech/share/opensource/",
