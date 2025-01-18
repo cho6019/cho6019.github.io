@@ -1,6 +1,6 @@
 # RESUME
 
-# <img style="float:right;border-radius:50%;width:70px;padding:6px" src="../.vuepress/public/images/hamster.png" />
+# <img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/profile.png" />
 
 <span style="float:right;padding:6px"> 
   j01040864205@gmail.com <br> mobile: 010-4086-4205 <br> Nationality: Korean
